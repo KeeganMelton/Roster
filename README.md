@@ -7,3 +7,7 @@ You must write a program containing two classes (i.e., Student and Roster). The 
 
 <h2>Environment</h2>
 This was written using Visual Studio Community 2022 version 17.2.6
+
+<h2>Program Output</h2>
+
+![image](https://user-images.githubusercontent.com/130617456/235326444-4ef4281e-297b-4a4a-9a2a-72b2809229ac.png?raw=true "Program Output")
